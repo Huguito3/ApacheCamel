@@ -1,0 +1,9 @@
+<Order>
+    <Number>3333</Number>
+    <Country>BRASIL</Country>
+    <Amount>3333</Amount>
+    <Items>
+        <ItemID>3333</ItemID>
+        <ItemQty>3</ItemQty>
+    </Items>
+</Order>

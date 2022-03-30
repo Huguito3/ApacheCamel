@@ -1,0 +1,10 @@
+<Order>
+    <Number>123456</Number>
+    <Country>USA</Country>
+    <Amount>676332</Amount>
+    <Items>
+        <ItemID>12345</ItemID>
+        <ItemCost>44.00</ItemCost>
+        <ItemQty>1</ItemQty>
+    </Items>
+</Order>
